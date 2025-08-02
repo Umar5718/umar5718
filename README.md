@@ -20,8 +20,8 @@
 
 ## 🙋‍♂️ About Me 
 - 🔭 I’m currently Working on **Cross Media Sol** 
-- 🌱 I’m currently learning **Redux, MongoDB, Express Js.** 
-- 💬 Ask me about React JS, Next Js,Vu Js, Wordpress, JavaScript/jQuery, Responsive Design, HTML/CSS 
+- 🌱 I’m currently learning Full Stack Development **React, Redux, Express.js, MongoDB, Laravel, PHP** 
+- 💬 Ask me about React.js, Next.js, Vue.js, WordPress, JavaScript/jQuery, Responsive Design, HTML/CSS
 - 👨‍💻 All of my projects are available at **[MyGithub](https://github.com/Umar5718?tab=repositories)** 
 - ⚡ Fun fact **Cheerful Programmer😂** ## 🚀 Languages and Tools:
 
@@ -116,7 +116,7 @@ consists of and doesn't reflect experience or skill level.
 	<a href="mailto:josaphcms@gmail.com"
 		><img src="https://img.icons8.com/material-outlined/48/000000/email.png"
 	/></a>
-	<a href="https://www.linkedin.com/in/muhammad-asif-17863570"
+	<a href="https://www.linkedin.com/in/umar-ijaz-228262167"
 		><img src="https://img.icons8.com/color/50/000000/linkedin.png"
 	/></a>
 	<!-- <a href = "https://www.instagram.com/ajinkya_03_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
@@ -127,7 +127,7 @@ consists of and doesn't reflect experience or skill level.
     <img src="https://komarev.com/ghpvc/?username=asifakram74">
 </a>
  
-<a href="https://github.com/asifakram74?tab=followers">
-	<img src="https://img.shields.io/github/followers/asifakram74?label=Followers&style=social"
+<a href="https://github.com/Umar5718?tab=followers">
+	<img src="https://img.shields.io/github/followers/Umar5718?label=Followers&style=social"
 		alt="GitHub Badge"
 /></a>
